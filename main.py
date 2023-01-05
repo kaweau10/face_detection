@@ -44,7 +44,7 @@ while True:
 
     # Display number of faces in top left of frame
     font = cv2.FONT_HERSHEY_SIMPLEX
-    cv2.putText(frame,'Cats detected: ' + str(i),(10,50), font, 1,(255,255,255),2,cv2.LINE_AA)
+    cv2.putText(frame,'Faces detected: ' + str(i),(10,50), font, 1,(255,255,255),2,cv2.LINE_AA)
 
     # Display the resulting frame
     cv2.imshow('Video', frame)
