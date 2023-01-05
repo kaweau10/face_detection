@@ -5,4 +5,4 @@ but other cascade files should work.  The program will display the number of det
 
 ## How to Use
 
-When running this program, be sure to add the correct .
+When running this program, be sure to add the correct .xml file name as a command line argument.
